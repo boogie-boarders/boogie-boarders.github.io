@@ -18,7 +18,7 @@ First, [install Meteor](https://www.meteor.com/install).
 
 Second, visit the Boogie Boarders application github page (), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the zeus/app directory and install libraries with:
+Third, cd into the ()/app directory and install libraries with:
 
 ```
 $ meteor npm install
